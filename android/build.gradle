@@ -29,7 +29,7 @@ android {
         namespace 'com.jacobbrasil.snapkit'
     }
 
-    compileSdk 23
+    compileSdk 33
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -46,7 +46,7 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 33
+        minSdkVersion 23
     }
 
     dependencies {
