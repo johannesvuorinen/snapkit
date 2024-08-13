@@ -29,7 +29,7 @@ android {
         namespace 'com.jacobbrasil.snapkit'
     }
 
-    compileSdk 33
+    compileSdk 23
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
